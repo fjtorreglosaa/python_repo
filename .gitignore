@@ -1,0 +1,12 @@
+# Virtual Environments
+venv/
+.env/
+
+# Python compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Config files
+*.env
+.vscode/
